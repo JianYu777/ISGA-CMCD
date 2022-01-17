@@ -22,7 +22,7 @@ with Modality-Invariant Representations for NIR-VIS Face Recognition"
 
 -  The LAMP-HQ dataset is a newly proposed large-scale dataset for NIR-VIS FR, consisting of approximately 74,000 faces from 573 subjects
 
-- run ```data_load.py, data_manager.py``` in to pepare the dataset
+- run ```data_load.py, data_manager.py``` to pepare the dataset
 
 ### 2. Test.
   Test a model by
