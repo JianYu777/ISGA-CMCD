@@ -47,16 +47,11 @@ python test.py
 ### 3. References
 
 ```
-[1] Stan Li, Dong Yi, Zhen Lei, and Shengcai Liao. The casia nir-vis 2.0
-face database. In Computer Vision and Pattern Recognition Workshops,
-pages 348–353, 2013
+[1] Stan Li, Dong Yi, Zhen Lei, and Shengcai Liao. The casia nir-vis 2.0 face database. In Computer Vision and Pattern Recognition Workshops, pages 348–353, 2013
 ```
 
 ```
-[2] Aijing Yu, Haoxue Wu, Huaibo Huang, Zhen Lei, and Ran He. Lamp-
-hq: A large-scale multi-pose high-quality database and benchmark for
-nir-vis face recognition. International Journal of Computer Vision,
-129(5):1467–1483, 2021
+[2] Aijing Yu, Haoxue Wu, Huaibo Huang, Zhen Lei, and Ran He. Lamp-hq: A large-scale multi-pose high-quality database and benchmark for nir-vis face recognition. International Journal of Computer Vision, 129(5):1467–1483, 2021
 ```
 
 ```
