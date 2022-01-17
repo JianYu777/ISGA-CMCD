@@ -8,8 +8,8 @@ with Modality-Invariant Representations for NIR-VIS Face Recognition"
 ### Results on the  CASIA NIR-VIS 2.0 Dataset an the  LMAP-HQ Dataset 
 | Method | Datasets           | Rank@1  | VR@FPR=1% | VR@FPR=0.1% |
 | ------ | ------------------ | ------- | --------- | ----------- |
-| LLM    | #CASIA NIR-VIS 2.0 | ~ 99.9% | ~ 99.9%   | ~ 99.9%     |
-| LLM    | #LMAP-HQ           | ~ 99.3% | ~ 99.5%   | ~ 98.7%     |
+| ISGA+CMCD    | #CASIA NIR-VIS 2.0 | ~ 99.9% | ~ 99.9%   | ~ 99.9%     |
+| ISGA+CMCD    | #LMAP-HQ           | ~ 99.3% | ~ 99.5%   | ~ 98.7%     |
 
 
 
