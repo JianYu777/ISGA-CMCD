@@ -30,7 +30,7 @@ with Modality-Invariant Representations for NIR-VIS Face Recognition"
 python test.py
   ```
 
-  - `--dataset`: which dataset "sysu" or "regdb".
+  - `--dataset`: which dataset "CASIA NIR-VIS 2.0" or "LMAP-HQ".
 
   - `--lr`: initial learning rate.
   
