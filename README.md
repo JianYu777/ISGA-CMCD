@@ -1,6 +1,6 @@
 
 
-# Our approach
+# ISGA + CMCD
 
 Pytorch Code of method for "An Intrinsic Structured Graph Alignment Module
 with Modality-Invariant Representations for NIR-VIS Face Recognition" 
