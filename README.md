@@ -13,7 +13,7 @@ with Modality-Invariant Representations for NIR-VIS Face Recognition"
 
 
 
-*The code has been tested in Python 3.7, PyTorch=1.0. 
+*The code has been tested in Python 3.7, PyTorch=1.4. 
 
 ### 1. Prepare the datasets.
 
